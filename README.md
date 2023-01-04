@@ -1,2 +1,3 @@
 # Traits
-Traits database
+Traits database Kaul & Wilsey 2023
+
